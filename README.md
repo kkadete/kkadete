@@ -9,7 +9,6 @@
 
 [1]: https://www.linkedin.com/in/ccadete
 [2]: https://www.github.com/kkadete
-[3]: https://www.twitter.com/ccadete
 
 # :hammer_and_pick: Crafting Software 
 
@@ -22,4 +21,8 @@ Hello, I'm a software craftsman who is continuously learning to improve the craf
 
 I have interests on programming languages like Kotlin and WebAssembly.
 
-## Thank you :pray:
+Please support the development of awesome software!
+
+<a href="https://www.buymeacoffee.com/kkadete" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="width: 128px;" >
+</a>
