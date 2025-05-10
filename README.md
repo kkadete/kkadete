@@ -12,14 +12,12 @@
 
 # :hammer_and_pick: Crafting Software 
 
-Hello, I'm a software craftsman who is continuously learning to improve the craft of software development pratices.
+Hello, I'm a software craftsman who is continuously learning to improve the craft of software development practices.
 
 [![linkedin ccadete][1.1]][1]
 [![github kkadete][2.1]][2]
 
 ---
-
-I have interests on programming languages like Kotlin and WebAssembly.
 
 Please support the development of awesome software!
 
